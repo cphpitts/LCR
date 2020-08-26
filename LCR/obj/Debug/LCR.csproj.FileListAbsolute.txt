@@ -1,0 +1,7 @@
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\bin\Debug\LCR.exe.config
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\bin\Debug\LCR.exe
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\bin\Debug\LCR.pdb
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\obj\Debug\LCR.csproj.CoreCompileInputs.cache
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\obj\Debug\LCR.exe
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\obj\Debug\LCR.pdb
+C:\Users\cphpi\Documents\Programming\C-Sharp\LCR\LCR\obj\Debug\LCR.csprojAssemblyReference.cache
